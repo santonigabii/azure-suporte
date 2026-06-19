@@ -43,5 +43,7 @@ Responda de forma clara, objetiva e em passos curtos.
 * Configuração de agentes no Azure AI Foundry.
 * Aplicação de IA para suporte técnico corporativo.
 
+![Logo](imagens/Como%20acessar%20o%20SharePoint.png)
+
 
 
